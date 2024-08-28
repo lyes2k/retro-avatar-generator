@@ -2,6 +2,9 @@
 
 RetroAvatarGenerator is a lightweight JavaScript library that generates unique, retro-style pixel avatars based on a string identifier. These avatars are drawn on high-resolution canvas elements, ensuring smooth resizing and high-quality visuals. The library offers customization options including avatar size, rounded corners, and pixel density.
 
+# Demo
+> [Open demo.](https://htmlpreview.github.io/?https://github.com/lyes2k/retro-avatar-generator/blob/main/demo.html)
+
 ## Features
 
 - **Unique Avatars**: Generate unique avatars based on any string identifier (e.g., user ID).
