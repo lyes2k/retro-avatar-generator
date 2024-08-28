@@ -1,5 +1,6 @@
 /**
- * RetroAvatarGenerator class
+ * RetroAvatarGenerator
+ * Version: 0.1-beta
  *
  * Author: Lyès
  * Github: @lyes2k
