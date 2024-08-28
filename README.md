@@ -60,4 +60,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Issues
 
-If you encounter any issues or have feature requests, please [submit an issue](https://github.com/your-username/retro-avatar-generator/issues) on GitHub.
+If you encounter any issues or have feature requests, please [submit an issue](https://github.com/lyes2k/retro-avatar-generator/issues) on GitHub.
