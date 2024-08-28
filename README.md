@@ -14,13 +14,7 @@ RetroAvatarGenerator is a lightweight JavaScript library that generates unique, 
 
 To use RetroAvatarGenerator, simply include the JavaScript file in your project.
 
-### Via CDN
-
-```html
-<script src="path/to/retro-avatar-generator.js"></script>
-```
-
-### Manual Download
+### Download
 
 Download the `retro-avatar-generator.js` file and include it in your project:
 
